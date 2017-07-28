@@ -92,7 +92,7 @@
                   "2": "         建议数值：25.",
                   "3": "Note: Ticks per second means how often the Game.OnTick event should be fired.",
                   "4": "这意味着，此选项不是一个人性化，不仅仅是性能选项.",
-                  "5": "例如：25 t/s 指Game.OnTick每秒被触发25次.",
+                  "5": "11111111例如：25 t/s 指Game.OnTick每秒被触发25次.",
                   "6": "更高的数值每秒会点击更多次，但也会减少少量FPS.",
                   "7": "副菜单",
                   "8": "串流模式:",
